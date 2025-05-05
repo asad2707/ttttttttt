@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-05 11:48+0500\n"
+"POT-Creation-Date: 2025-05-05 12:22+0500\n"
 "PO-Revision-Date: 2025-05-05 10:32+0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -19,66 +19,66 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: bot/buttons/reply.py:29
+#: bot/buttons/reply.py:36
 msgid "menu of restaurant"
-msgstr ""
+msgstr "menyu"
 
-#: bot/buttons/reply.py:30
+#: bot/buttons/reply.py:37
 msgid "call us"
-msgstr ""
+msgstr "svyazatcya"
 
-#: bot/buttons/reply.py:31
+#: bot/buttons/reply.py:38
 msgid "language"
-msgstr ""
+msgstr "yazik"
 
-#: bot/buttons/reply.py:41 bot/buttons/reply.py:50
+#: bot/buttons/reply.py:48 bot/buttons/reply.py:57
 msgid "Main Panel"
-msgstr ""
+msgstr "glavniy"
 
-#: bot/buttons/reply.py:47
+#: bot/buttons/reply.py:54
 msgid "Salads"
-msgstr ""
+msgstr "salati"
 
-#: bot/buttons/reply.py:48
+#: bot/buttons/reply.py:55
 msgid "Fast food"
 msgstr ""
 
-#: bot/buttons/reply.py:49
+#: bot/buttons/reply.py:56
 msgid "hot dishes"
-msgstr ""
+msgstr "goryachiye"
 
-#: bot/buttons/reply.py:57
+#: bot/buttons/reply.py:64
 msgid "Cezar"
 msgstr ""
 
-#: bot/buttons/reply.py:58
+#: bot/buttons/reply.py:65
 msgid "Olivye"
 msgstr ""
 
-#: bot/buttons/reply.py:59 bot/buttons/reply.py:68 bot/buttons/reply.py:77
+#: bot/buttons/reply.py:66 bot/buttons/reply.py:75 bot/buttons/reply.py:84
 msgid "back to menu"
-msgstr ""
+msgstr "viyti v menyu"
 
-#: bot/buttons/reply.py:66
+#: bot/buttons/reply.py:73
 msgid "burger"
 msgstr ""
 
-#: bot/buttons/reply.py:67
+#: bot/buttons/reply.py:74
 msgid "hot dog"
 msgstr ""
 
-#: bot/buttons/reply.py:75
+#: bot/buttons/reply.py:82
 msgid "palow"
 msgstr ""
 
-#: bot/buttons/reply.py:76
+#: bot/buttons/reply.py:83
 msgid "soup"
-msgstr ""
+msgstr "sup"
 
 #: bot/handlers/main.py:27
 #, python-brace-format
 msgid "Hello, {}"
-msgstr ""
+msgstr "privet"
 
 #: bot/handlers/main.py:34
 msgid "Choose language"
@@ -86,21 +86,21 @@ msgstr ""
 
 #: bot/handlers/main.py:42
 msgid "Language was changed"
-msgstr ""
+msgstr "yazik izmenyon"
 
-#: bot/handlers/main.py:50
+#: bot/handlers/main.py:52
 msgid "menu"
 msgstr ""
 
-#: bot/handlers/main.py:54
+#: bot/handlers/main.py:58
 msgid "salads"
 msgstr ""
 
-#: bot/handlers/main.py:59
+#: bot/handlers/main.py:65
 msgid "fast foods"
 msgstr ""
 
-#: bot/handlers/main.py:64
+#: bot/handlers/main.py:73
 msgid "hot meals"
-msgstr ""
+msgstr "goryachiye"
 

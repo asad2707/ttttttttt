@@ -15,6 +15,13 @@ menu_r = "back to menu"
 salad = 'Salads'
 f_food = "Fast food"
 h_food = 'hot dishes'
+cezar = 'Cezar'
+olv = 'Olivye'
+burger = 'burger'
+hd = 'hot dog'
+pl = 'palow'
+soup = 'soup'
+
 def make_reply(btns: list , size : list ,repeat=False):
     rkb = ReplyKeyboardBuilder()
     rkb.add(*btns)

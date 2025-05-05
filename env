@@ -1,0 +1,9 @@
+TOKEN=7768346111:AAHdUosY5ql_3hLf_mpbdi_hw90-mC-GpYw
+DB_USER=postgres
+DB_NAME=postgres
+DB_PASSWORD=8888
+DB_PORT=5432
+DB_HOST=pg_service
+
+
+#har ehtimolga qarshi

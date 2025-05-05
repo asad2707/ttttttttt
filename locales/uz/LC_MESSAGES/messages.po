@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-05 11:48+0500\n"
+"POT-Creation-Date: 2025-05-05 12:22+0500\n"
 "PO-Revision-Date: 2025-05-05 10:32+0500\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uz\n"
@@ -18,59 +18,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: bot/buttons/reply.py:29
+#: bot/buttons/reply.py:36
 msgid "menu of restaurant"
 msgstr "Restoran menyusi"
 
-#: bot/buttons/reply.py:30
+#: bot/buttons/reply.py:37
 msgid "call us"
 msgstr "Biz bilan boglanish"
 
-#: bot/buttons/reply.py:31
+#: bot/buttons/reply.py:38
 msgid "language"
 msgstr "til"
 
-#: bot/buttons/reply.py:41 bot/buttons/reply.py:50
+#: bot/buttons/reply.py:48 bot/buttons/reply.py:57
 msgid "Main Panel"
 msgstr "asosiy menyu"
 
-#: bot/buttons/reply.py:47
+#: bot/buttons/reply.py:54
 msgid "Salads"
 msgstr "salatlar"
 
-#: bot/buttons/reply.py:48
+#: bot/buttons/reply.py:55
 msgid "Fast food"
 msgstr "fast food"
 
-#: bot/buttons/reply.py:49
+#: bot/buttons/reply.py:56
 msgid "hot dishes"
 msgstr "issiq taomlar"
 
-#: bot/buttons/reply.py:57
+#: bot/buttons/reply.py:64
 msgid "Cezar"
 msgstr "sezar"
 
-#: bot/buttons/reply.py:58
+#: bot/buttons/reply.py:65
 msgid "Olivye"
 msgstr "Olivye"
 
-#: bot/buttons/reply.py:59 bot/buttons/reply.py:68 bot/buttons/reply.py:77
+#: bot/buttons/reply.py:66 bot/buttons/reply.py:75 bot/buttons/reply.py:84
 msgid "back to menu"
 msgstr "menyuga qaytish"
 
-#: bot/buttons/reply.py:66
+#: bot/buttons/reply.py:73
 msgid "burger"
 msgstr ""
 
-#: bot/buttons/reply.py:67
+#: bot/buttons/reply.py:74
 msgid "hot dog"
 msgstr ""
 
-#: bot/buttons/reply.py:75
+#: bot/buttons/reply.py:82
 msgid "palow"
 msgstr ""
 
-#: bot/buttons/reply.py:76
+#: bot/buttons/reply.py:83
 msgid "soup"
 msgstr "shorva"
 
@@ -87,21 +87,21 @@ msgstr "tilni tanlang"
 msgid "Language was changed"
 msgstr "til ozgartirildi"
 
-#: bot/handlers/main.py:50
+#: bot/handlers/main.py:52
 msgid "menu"
 msgstr ""
 
-#: bot/handlers/main.py:54
+#: bot/handlers/main.py:58
 #, fuzzy
 msgid "salads"
 msgstr "salatlar"
 
-#: bot/handlers/main.py:59
+#: bot/handlers/main.py:65
 #, fuzzy
 msgid "fast foods"
 msgstr "fast food"
 
-#: bot/handlers/main.py:64
+#: bot/handlers/main.py:73
 msgid "hot meals"
 msgstr "issiq taomlar"
 
